@@ -1,4 +1,4 @@
-My AIZU ONLINE JUDGE Code!
+My AIZU ONLINE JUDGE Code!　　
 　
 <http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=naoyashiga>
 
@@ -6,5 +6,6 @@ My AIZU ONLINE JUDGE Code!
 ---
 C
 
-・Registered Date
+・Registered Date　　
+
 Mon May 13 2013
